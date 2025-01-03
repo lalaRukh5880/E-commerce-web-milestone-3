@@ -104,7 +104,7 @@ const Menu = () => {
                                                     className="w-20 h-20 sm:w-24 sm:h-24 rounded"
                                                 />
                                                 <span className="ml-4 text-lg font-medium text-slate-600">
-                                                    {product.name} - ${product.price.toFixed(2)}
+                                                    {product.name} - ${product.price.Fixed(2)}
                                                 </span>
                                             </li>
                                         ))}
